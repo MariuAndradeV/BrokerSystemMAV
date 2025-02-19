@@ -1,0 +1,9 @@
+
+
+
+https://www.docker.com/blog/how-to-dockerize-django-app/
+https://www.djangoproject.com/start/
+https://docs.djangoproject.com/en/5.1/intro/tutorial01/
+
+https://www.youtube.com/watch?v=ZMD16lNLoHc&t=38s
+https://www.youtube.com/watch?v=T1intZyhXDU
